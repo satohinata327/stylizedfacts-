@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.ipynb
+
+# Local data and generated outputs
+data/*.csv
+results/
+logs/
+log/
+*.log
+
+# Local environments
+.venv/
+venv/
+env/
